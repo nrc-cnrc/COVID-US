@@ -1,0 +1,3 @@
+id	type	class
+001	video	Pneumonia
+012	video	Pneumonia

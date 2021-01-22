@@ -4,7 +4,7 @@ The COVID-19 pandemic continues to have a devastating effect on the health and w
 
 Our goal is to encourage broad adoption and contribution to this project. Accordingly this project has been licensed under the __GNU Affero General Public License 3.0__. Please see license file for terms. 
 
-**Update 01/28/2021:** We released the COVIDx-US (version 1.0) dataset with 80 ultrasound videos and 8,549 processed ultrasound images.\
+**Update 01/28/2021:** We released the COVIDx-US (version 1.0) dataset with 80 ultrasound videos and 8,549 processed ultrasound images.
 
 The current COVIDx-US dataset is constructed from the following open source datasets:
 * [ButterflyNetwork](https://www.butterflynetwork.com/)

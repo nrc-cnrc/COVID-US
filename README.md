@@ -13,13 +13,6 @@ The current COVIDx-US dataset is constructed from the following open source data
 # Licence
 Our goal is to encourage broad adoption and contribution to this project. The COVID-US project is an open-source open-access initiative under the terms of the __GNU Affero General Public License 3.0__. Please review the LICENCE document for terms. Contact the team if you wish to licence COVID-US under different terms.
 
-If there are any technical questions after the README, FAQ, and past/current issues have been read, please post an issue or contact:
-
-* ashkan.ebadi@nrc-cnrc.gc.ca
-* pengcheng.xi@nrc-cnrc.gc.ca
-* alexander.wong@uwaterloo.ca
-* alex.maclean@uwaterloo.ca
-
 Conceptual flow of the data collection and processing flow
 :-------------------------:
 <img src="figure/Conceptual_flow.png" alt="COVID-US-Conceptual flow" width="100%" height="100%">
@@ -32,12 +25,12 @@ US video of a COVID-19 patient             |  Cropped video             |  First
 
 # Core COVID-US Team
 1. National Research Council Canada
-    * Ashkan Ebadi
+    * Ashkan Ebadi (ashkan.ebadi@nrc-cnrc.gc.ca)
     * Pengcheng Xi
     * Stephane Tremblay
     * Patrick Paul
 2. Vision and Image Processing Research Group, University of Waterloo, Canada
-    * Alexander Wong
+    * Alexander Wong (alexander.wong@uwaterloo.ca)
     * Alex MacLean
 
 # Requirements
@@ -73,7 +66,7 @@ __Pneumonia__ | 0 | 9 | 9 | 6 | `24`
 __Normal__ | 2 | 5 | 3 | 0 | `10`
 
 # Issues
-Use the [issue tracker](https://github.com/nrc-cnrc/COVID-US/issues/) to report genuine bugs, mistakes or even small typos in the COVID-US project files. The tracker lets you browse and search all documented issues, comment on open issues, and track their progress. Note that issues are not meant for technical support; open an issue only for an error which is precise and reproducible.
+After reading the README and past/current issues use the [issue tracker](https://github.com/nrc-cnrc/COVID-US/issues/) to report genuine bugs, mistakes or even small typos in the COVID-US project files. The tracker lets you browse and search all documented issues, comment on open issues, and track their progress. Note that issues are not meant for technical support; open an issue only for an error which is precise and reproducible.
 
 # Contributing
 You can contribute to the COVID-US initiative by providing/adding more data/data sources, implementing new features and functionalities in the scripts, correcting errors, or even improving documentation. Feel free to submit small corrections and contributions as issues in the [issue tracker](https://github.com/nrc-cnrc/COVID-US/issues/). For more extensive contributions, familiarize yourself with git and github, work on your own COVID-US fork and submit your changes via a [pull request](https://github.com/nrc-cnrc/COVID-US/pulls).

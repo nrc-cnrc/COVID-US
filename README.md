@@ -2,8 +2,6 @@
 
 The COVID-19 pandemic continues to have a devastating effect on the health and well-being of the global population. Apart from the global health crises, the pandemic has also caused significant economic and financial difficulties and socio-physiological implications. Effective screening, prognosis, and treatment planning plays a key role in controlling the pandemic. A few recent studies highlighted the role of point-of-care ultrasound imaging for COVID-19 screening and prognosis, particularly given its non-invasive nature, widespread global accessibility and availability, and easy-to-sanitize nature.  Motivated by this and the promise of artificial intelligence tools to aid clinicians, we introduce COVIDx-US, an open-access benchmark dataset of COVID-19 related ultrasound imaging data that is the largest of its kind. The COVIDx-US dataset was curated from multiple sources and consists of 80 lung ultrasound videos and 8,549 processed images of patients infected with SARS-CoV-2 pneumonia, non-SARS-CoV-2 pneumonia, as well as healthy control cases. The dataset was systematically processed and validated specifically for the purpose of building and evaluating artificial intelligence algorithms and models. 
 
-Our goal is to encourage broad adoption and contribution to this project. Accordingly this project has been licensed under the __GNU Affero General Public License 3.0__. Please see license file for terms. 
-
 **Update 01/28/2021:** We released the COVIDx-US (version 1.0) dataset with 80 ultrasound videos and 8,549 processed ultrasound images.
 
 The current COVIDx-US dataset is constructed from the following open source datasets:
@@ -11,6 +9,9 @@ The current COVIDx-US dataset is constructed from the following open source data
 * [GrepMed](https://www.grepmed.com/)
 * [The POCUS Atlas](https://www.thepocusatlas.com/)
 * [LITFL](https://litfl.com/)   
+
+# Licence
+Our goal is to encourage broad adoption and contribution to this project. The COVID-US project is an open-source open-access initiative under the terms of the __GNU Affero General Public License 3.0__. Please review the LICENCE document for terms. Contact the team if you wish to licence COVID-US under different terms.
 
 If there are any technical questions after the README, FAQ, and past/current issues have been read, please post an issue or contact:
 
@@ -70,3 +71,9 @@ Class | ButterflyNetwork | PocusAtlas | GrepMed | LITFL | Total
 __COVID-19__ | 20 | 18 | 8 | 0 | `46`
 __Pneumonia__ | 0 | 9 | 9 | 6 | `24`
 __Normal__ | 2 | 5 | 3 | 0 | `10`
+
+# Issues
+Use the [issue tracker](https://github.com/nrc-cnrc/COVID-US/issues/) to report genuine bugs, mistakes or even small typos in the COVID-US project files. The tracker lets you browse and search all documented issues, comment on open issues, and track their progress. Note that issues are not meant for technical support; open an issue only for an error which is precise and reproducible.
+
+# Contributing
+You can contribute to the COVID-US initiative by providing/adding more data/data sources, implementing new features and functionalities in the scripts, correcting errors, or even improving documentation. Feel free to submit small corrections and contributions as issues in the [issue tracker](https://github.com/nrc-cnrc/COVID-US/issues/). For more extensive contributions, familiarize yourself with git and github, work on your own COVID-US fork and submit your changes via a [pull request](https://github.com/nrc-cnrc/COVID-US/pulls).

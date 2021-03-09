@@ -28,7 +28,6 @@ US video of a COVID-19 patient             |  Cropped video             |  First
     * Ashkan Ebadi (ashkan.ebadi@nrc-cnrc.gc.ca)
     * Pengcheng Xi
     * Stephane Tremblay
-    * Patrick Paul
 2. Vision and Image Processing Research Group, University of Waterloo, Canada
     * Alexander Wong (alexander.wong@uwaterloo.ca)
     * Alex MacLean

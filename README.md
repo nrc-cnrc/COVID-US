@@ -51,7 +51,7 @@ Ultrasound __videos__ distribution per label and probe type
 
 Class | Convex | Linear | Total
 --- | --- | --- | ---
-__COVID-19__ | 39 | 7 | `46`
+__COVID-19__ | 38 | 7 | `45`
 __Pneumonia__ | 20 | 4 | `24`
 __Normal__ | 7 | 3 | `10`
 
@@ -60,7 +60,7 @@ Ultrasound __videos__ distribution per label and data source
 
 Class | ButterflyNetwork | PocusAtlas | GrepMed | LITFL | Total
 --- | --- | --- | --- | --- | ---
-__COVID-19__ | 20 | 18 | 8 | 0 | `46`
+__COVID-19__ | 19 | 18 | 8 | 0 | `45`
 __Pneumonia__ | 0 | 9 | 9 | 6 | `24`
 __Normal__ | 2 | 5 | 3 | 0 | `10`
 

@@ -2,7 +2,7 @@
 
 The COVID-19 pandemic continues to have a devastating effect on the health and well-being of the global population. Apart from the global health crises, the pandemic has also caused significant economic and financial difficulties and socio-physiological implications. Effective screening, prognosis, and treatment planning plays a key role in controlling the pandemic. A few recent studies highlighted the role of point-of-care ultrasound imaging for COVID-19 screening and prognosis, particularly given its non-invasive nature, widespread global accessibility and availability, and easy-to-sanitize nature.  Motivated by this and the promise of artificial intelligence tools to aid clinicians, we introduce __COVIDx-US__, an open-access benchmark dataset of COVID-19 related ultrasound imaging data that is the largest of its kind. The COVIDx-US dataset was curated from multiple sources and consists of 80 lung ultrasound videos and 8,549 processed images of patients infected with SARS-CoV-2 pneumonia, non-SARS-CoV-2 pneumonia, as well as healthy control cases. The dataset was systematically processed and validated specifically for the purpose of building and evaluating artificial intelligence algorithms and models. 
 
-**Update 01/28/2021:** We released the COVIDx-US (version 1.0) dataset with 80 ultrasound videos and 8,549 processed ultrasound images.
+**Update 03/12/2021:** COVIDx-US v1.0 is released. The dataset comprises 79 ultrasound videos and 8,329 processed ultrasound images.
 
 The current COVIDx-US dataset is constructed from the following open source datasets:
 * [ButterflyNetwork](https://www.butterflynetwork.com/)

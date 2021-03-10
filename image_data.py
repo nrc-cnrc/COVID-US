@@ -11,6 +11,7 @@ def extract_images(video_path, image_path, cropped=False, max_frames=None, targe
         Parameters:
             - video_path: Path to the video folder to read video files from it (source folder)
             - image_path: Path to the image folder to store the extracted images in it (destination folder)
+            - cropped: if True, frames will be extracted from cropped video files. Otherwise, from original video files.
             - max_frames: Maximum number of frames(images) to be extracted from a video file. Note: if a video file has fewer frames than the requested max_frames, all frames will be extracted
             - target_class: The target classes that user would like to extract images for
             - target_source: The target data sources to extract images
@@ -22,9 +23,12 @@ def extract_images(video_path, image_path, cropped=False, max_frames=None, targe
     else:
         # read videos metadata file
         metadata = pd.read_csv('utils/video_metadata.csv', sep=',', encoding='latin1')
+        metadata = metadata[metadata.id !='22_butterfly_covid'] # 22_butterfly_covid.mp4 was removed in March release of butterfly
+
 
         # read videos' properties file
         vid_prop_df = pd.read_csv('utils/video_files_properties.csv')
+        vid_prop_df = vid_prop_df[vid_prop_df.filename !='22_butterfly_covid.mp4'] # 22_butterfly_covid.mp4 was removed in March release of butterfly
 
         # merge with the video meta data file 
         vid_prop_df.filename = vid_prop_df.filename.astype(str)
@@ -65,7 +69,7 @@ def extract_images(video_path, image_path, cropped=False, max_frames=None, targe
             if (ret != True):
                 break
             
-            # storing the frames in a new folder named test_1
+            # storing frames
             if (max_frames) and (img_pos): # and (frame_count > max_frames):
                 if (frame_id % img_pos == 0) and (n_frames <= max_frames):
                     img_filename = os.path.join(image_path, file_id + "_" + vid_probe + "_frame%d.jpg" % frame_id)

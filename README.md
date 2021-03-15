@@ -2,7 +2,7 @@
 
 The COVID-19 pandemic continues to have a devastating effect on the health and well-being of the global population. Apart from the global health crises, the pandemic has also caused significant economic and financial difficulties and socio-physiological implications. Effective screening, prognosis, and treatment planning plays a key role in controlling the pandemic. A few recent studies highlighted the role of point-of-care ultrasound imaging for COVID-19 screening and prognosis, particularly given its non-invasive nature, widespread global accessibility and availability, and easy-to-sanitize nature.  Motivated by this and the promise of artificial intelligence tools to aid clinicians, we introduce __COVIDx-US__, an open-access benchmark dataset of COVID-19 related ultrasound imaging data that is the largest of its kind. The COVIDx-US dataset was curated from multiple sources and consists of 80 lung ultrasound videos and 8,549 processed images of patients infected with SARS-CoV-2 pneumonia, non-SARS-CoV-2 pneumonia, as well as healthy control cases. The dataset was systematically processed and validated specifically for the purpose of building and evaluating artificial intelligence algorithms and models. 
 
-**Update 03/12/2021:** COVIDx-US v1.0 is released. The dataset comprises 79 ultrasound videos and 8,329 processed ultrasound images.
+**Update 03/17/2021:** COVIDx-US v1.0 is released. The dataset comprises 93 ultrasound videos and 10,774 processed ultrasound images.
 
 The current COVIDx-US dataset is constructed from the following open source datasets:
 * [ButterflyNetwork](https://www.butterflynetwork.com/)
@@ -51,8 +51,8 @@ Ultrasound __videos__ distribution per label and probe type
 
 Class | Convex | Linear | Total
 --- | --- | --- | ---
-__COVID-19__ | 38 | 7 | `45`
-__Pneumonia__ | 20 | 4 | `24`
+__COVID-19__ | 52 | 7 | `59`
+__Pneumonia__ | 19 | 5 | `24`
 __Normal__ | 7 | 3 | `10`
 
 
@@ -60,7 +60,7 @@ Ultrasound __videos__ distribution per label and data source
 
 Class | ButterflyNetwork | PocusAtlas | GrepMed | LITFL | Total
 --- | --- | --- | --- | --- | ---
-__COVID-19__ | 19 | 18 | 8 | 0 | `45`
+__COVID-19__ | 33 | 18 | 8 | 0 | `59`
 __Pneumonia__ | 0 | 9 | 9 | 6 | `24`
 __Normal__ | 2 | 5 | 3 | 0 | `10`
 

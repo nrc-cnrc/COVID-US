@@ -30,7 +30,7 @@ US video of a COVID-19 patient             |  Cropped video             |  First
     * Stephane Tremblay
 2. Vision and Image Processing Research Group, University of Waterloo, Canada
     * Alexander Wong (alexander.wong@uwaterloo.ca)
-    * Alex MacLean
+    * Alexander MacLean
 
 # Requirements
 To generate the __COVIDx-US dataset__:

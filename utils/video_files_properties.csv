@@ -12,7 +12,6 @@ filename,framerate,width,height,frame_count,duration_secs
 1_butterfly_covid.mp4,19.57,880.0,1080.0,65.0,3.32
 20_butterfly_normal.mp4,30.0,720.0,1236.0,733.0,24.43
 21_butterfly_normal.mp4,21.4,880.0,1080.0,100.0,4.67
-22_butterfly_covid.mp4,30.0,720.0,1236.0,1306.0,43.53
 23_grepmed_pneumonia.mp4,25.0,816.0,540.0,252.0,10.08
 24_grepmed_covid.mp4,21.71,960.0,720.0,225.0,10.36
 25_grepmed_pneumonia.mp4,30.0,1280.0,720.0,418.0,13.93
@@ -77,5 +76,19 @@ filename,framerate,width,height,frame_count,duration_secs
 79_pocusatlas_pneumonia.gif,10.0,442.0,309.0,31,3.1
 7_butterfly_covid.mp4,19.25,880.0,1080.0,126.0,6.55
 80_pocusatlas_pneumonia.gif,10.0,198.0,197.0,30,3.0
+81_butterfly_covid.mp4,24.23,760.0,1080.0,243.0,10.03
+82_butterfly_covid.mp4,21.36,760.0,1080.0,52.0,2.43
+83_butterfly_covid.mp4,21.78,632.0,1080.0,76.0,3.49
+84_butterfly_covid.mp4,24.32,624.0,1080.0,114.0,4.69
+85_butterfly_covid.mp4,22.76,736.0,1080.0,155.0,6.81
+86_butterfly_covid.mp4,19.17,760.0,1080.0,287.0,14.97
+87_butterfly_covid.mp4,21.04,736.0,1080.0,177.0,8.41
+88_butterfly_covid.mp4,19.5,760.0,1080.0,107.0,5.49
+89_butterfly_covid.mp4,21.06,736.0,1080.0,179.0,8.5
 8_butterfly_covid.mp4,21.2,880.0,1080.0,109.0,5.14
+90_butterfly_covid.mp4,20.85,760.0,1080.0,145.0,6.95
+91_butterfly_covid.mp4,21.59,736.0,1080.0,402.0,18.62
+92_butterfly_covid.mp4,21.86,736.0,1080.0,113.0,5.17
+93_butterfly_covid.mp4,23.11,736.0,1080.0,109.0,4.72
+94_butterfly_covid.mp4,21.07,760.0,1080.0,300.0,14.24
 9_butterfly_covid.mp4,19.13,1928.0,1080.0,80.0,4.18

@@ -64,15 +64,18 @@ __COVID-19__ | 33 | 18 | 8 | 0 | `59`
 __Pneumonia__ | 0 | 9 | 9 | 6 | `24`
 __Normal__ | 2 | 5 | 3 | 0 | `10`
 
+
 # Citing this work
 Please consider citing the following paper when using COVIDx-US dataset/scripts:
 
+```
 @article{COVIDxUS2021,
   title={COVIDx-US - An Open-Access Benchmark Dataset of Ultrasound Imaging Data for AI-Driven COVID-19 Analytics},
   author={Ebadi, Ashkan and Xi, Pengcheng and MacLean, Alexander and Tremblay, Stéphane and Kohli, Sonny and Wong, Alexander},
   journal={ArXiv e-prints, 2103.10003},
   year={2021}
 }
+```
 
 # Issues
 After reading the README and past/current issues use the [issue tracker](https://github.com/nrc-cnrc/COVID-US/issues/) to report genuine bugs, mistakes or even small typos in the COVID-US project files. The tracker lets you browse and search all documented issues, comment on open issues, and track their progress. Note that issues are not meant for technical support; open an issue only for an error which is precise and reproducible.

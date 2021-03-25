@@ -83,3 +83,6 @@ After reading the README and past/current issues use the [issue tracker](https:/
 
 # Contributing
 You can contribute to the COVID-US initiative by providing/adding more data/data sources, implementing new features and functionalities in the scripts, correcting errors, or even improving documentation. Feel free to submit small corrections and contributions as issues in the [issue tracker](https://github.com/nrc-cnrc/COVID-US/issues/). For more extensive contributions, familiarize yourself with git and github, work on your own COVID-US fork and submit your changes via a [pull request](https://github.com/nrc-cnrc/COVID-US/pulls).
+
+# Related work
+* COVID-19 Lung ultrasound [dataset](https://github.com/jannisborn/covid19_ultrasound/tree/master/data), link to the [paper](https://www.mdpi.com/2076-3417/11/2/672/html).

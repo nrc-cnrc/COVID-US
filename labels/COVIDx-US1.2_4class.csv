@@ -1,0 +1,151 @@
+filename,patient,source,probe,class,class_level2
+1_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+2_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+3_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+4_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+5_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+6_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+7_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+8_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+9_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+10_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+11_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+12_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+13_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+14_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+15_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+16_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+17_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+18_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+19_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+20_butterfly_normal.mp4,,Butterfly,Convex,Normal,
+21_butterfly_normal.mp4,,Butterfly,Convex,Normal,
+23_grepmed_pneumonia.mp4,,GrepMed,Linear,Pneumonia,
+24_grepmed_covid.mp4,,GrepMed,Convex,COVID,
+25_grepmed_pneumonia.mp4,,GrepMed,Convex,Pneumonia,
+26_grepmed_covid.mp4,,GrepMed,Convex,COVID,
+27_grepmed_pneumonia.mp4,,GrepMed,Convex,Pneumonia,
+28_grepmed_normal.mp4,,GrepMed,Linear,Normal,
+29_grepmed_covid.mp4,,GrepMed,Linear,COVID,
+30_grepmed_covid.mp4,,GrepMed,Convex,COVID,
+31_grepmed_covid.mp4,,GrepMed,Convex,COVID,
+32_grepmed_pneumonia.mp4,,GrepMed,Linear,Pneumonia,
+33_grepmed_covid.mp4,,GrepMed,Linear,COVID,
+34_grepmed_pneumonia.mp4,,GrepMed,Convex,Pneumonia,
+35_grepmed_covid.mp4,,GrepMed,Convex,COVID,
+36_grepmed_normal.mp4,,GrepMed,Convex,Normal,
+37_grepmed_pneumonia.mp4,,GrepMed,Convex,Pneumonia,
+38_grepmed_pneumonia.mp4,,GrepMed,Convex,Pneumonia,
+39_grepmed_normal.mp4,,GrepMed,Linear,Normal,
+40_grepmed_pneumonia.mp4,,GrepMed,Convex,Pneumonia,
+41_grepmed_pneumonia.mp4,,GrepMed,Convex,Pneumonia,
+42_grepmed_covid.mp4,,GrepMed,Convex,COVID,
+43_litfl_pneumonia.mp4,pneumonia_top100_case1,Litfl,Convex,Pneumonia,
+44_litfl_pneumonia.mp4,pneumonia_top100_case2_1,Litfl,Convex,Pneumonia,
+45_litfl_pneumonia.mp4,pneumonia_top100_case2_2,Litfl,Convex,Pneumonia,
+46_litfl_pneumonia.mp4,pneumonia_top100_case2_3,Litfl,Convex,Pneumonia,
+47_litfl_pneumonia.mp4,pneumonia_top100_case2_4,Litfl,Linear,Pneumonia,
+48_litfl_pneumonia.mp4,pneumonia_top100_case2_5,Litfl,Convex,Pneumonia,
+49_pocusatlas_covid.gif,,PocusAtlas,Convex,COVID,
+50_pocusatlas_covid.gif,,PocusAtlas,Convex,COVID,
+51_pocusatlas_covid.gif,,PocusAtlas,Convex,COVID,
+52_pocusatlas_covid.gif,,PocusAtlas,Convex,COVID,
+53_pocusatlas_covid.gif,,PocusAtlas,Convex,COVID,
+54_pocusatlas_covid.gif,,PocusAtlas,Convex,COVID,
+55_pocusatlas_covid.gif,,PocusAtlas,Linear,COVID,
+56_pocusatlas_covid.gif,,PocusAtlas,Convex,COVID,
+57_pocusatlas_covid.gif,,PocusAtlas,Linear,COVID,
+58_pocusatlas_covid.gif,,PocusAtlas,Convex,COVID,
+59_pocusatlas_covid.gif,,PocusAtlas,Linear,COVID,
+60_pocusatlas_covid.gif,,PocusAtlas,Convex,COVID,
+61_pocusatlas_covid.gif,,PocusAtlas,Convex,COVID,
+62_pocusatlas_normal.gif,,PocusAtlas,Convex,Normal,
+63_pocusatlas_covid.gif,,PocusAtlas,Linear,COVID,
+64_pocusatlas_pneumonia.gif,,PocusAtlas,Convex,Pneumonia,
+65_pocusatlas_pneumonia.gif,,PocusAtlas,Linear,Pneumonia,
+66_pocusatlas_covid.gif,,PocusAtlas,Convex,COVID,
+67_pocusatlas_covid.gif,,PocusAtlas,Linear,COVID,
+68_pocusatlas_pneumonia.gif,,PocusAtlas,Convex,Pneumonia,
+69_pocusatlas_pneumonia.gif,,PocusAtlas,Convex,Pneumonia,
+70_pocusatlas_pneumonia.gif,,PocusAtlas,Convex,Pneumonia,
+71_pocusatlas_normal.gif,,PocusAtlas,Convex,Normal,
+72_pocusatlas_pneumonia.gif,,PocusAtlas,Convex,Pneumonia,
+73_pocusatlas_covid.gif,,PocusAtlas,Convex,COVID,
+74_pocusatlas_covid.gif,,PocusAtlas,Convex,COVID,
+75_pocusatlas_pneumonia.gif,,PocusAtlas,Linear,Pneumonia,
+76_pocusatlas_normal.gif,,PocusAtlas,Convex,Normal,
+77_pocusatlas_normal.gif,,PocusAtlas,Convex,Normal,
+78_pocusatlas_normal.gif,,PocusAtlas,Linear,Normal,
+79_pocusatlas_pneumonia.gif,,PocusAtlas,Convex,Pneumonia,
+80_pocusatlas_pneumonia.gif,,PocusAtlas,Convex,Pneumonia,
+81_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+82_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+83_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+84_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+85_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+86_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+87_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+88_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+89_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+90_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+91_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+92_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+93_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+94_butterfly_covid.mp4,,Butterfly,Convex,COVID,
+95_litfl_other.mp4,copd_case_1,Litfl,Linear,Other,Chronic Obstructive Pulmonary Disease (COPD)
+96_litfl_other.mp4,copd_case_1,Litfl,Linear,Other,Chronic Obstructive Pulmonary Disease (COPD)
+97_litfl_other.mp4,empyema_case_1,Litfl,Convex,Other,Empyema 
+98_litfl_other.mp4,lung_abscess_case_1,Litfl,Convex,Other,Lung Abscess
+99_litfl_other.mp4,hydropneumothorax_case_1_1,Litfl,Linear,Other,Hydropneumothorax
+100_litfl_other.mp4,hydropneumothorax_case_1_2,Litfl,Convex,Other,Hydropneumothorax
+101_litfl_other.mp4,lung_collapse_case_1,Litfl,Convex,Other,Lung Collapse
+102_litfl_other.mp4,lung_collapse_case_1,Litfl,Convex,Other,Lung Collapse
+103_litfl_other.mp4,lung_point_case_1,Litfl,Linear,Other,Lung Point
+104_litfl_other.mp4,lung_point_case_2,Litfl,Linear,Other,Lung Point
+105_litfl_other.mp4,lung_point_case_3,Litfl,Convex,Other,Lung Point
+106_litfl_other.mp4,lung_point_case_4,Litfl,Linear,Other,Lung Point
+107_litfl_other.mp4,lung_point_case_5_1,Litfl,Convex,Other,Lung Point
+108_litfl_other.mp4,lung_point_case_5_2,Litfl,Convex,Other,Lung Point
+109_litfl_other.mp4,lung_metastasis_case_1,Litfl,Linear,Other,Malignancy - Lung metastases
+110_litfl_other.mp4,lung_metastasis_case_2_1,Litfl,Linear,Other,Malignancy - Lung metastases
+111_litfl_other.mp4,lung_metastasis_case_2_2,Litfl,Convex,Other,Malignancy - Lung metastases
+112_litfl_other.mp4,lung_metastasis_case_2_3,Litfl,Linear,Other,Malignancy - Lung metastases
+113_litfl_other.mp4,pleural_effusion_case_1,Litfl,Convex,Other,Pleural Effusion
+114_litfl_other.mp4,pleural_effusion_case_2_1,Litfl,Convex,Other,Pleural Effusion
+115_litfl_other.mp4,pleural_effusion_case_2_2,Litfl,Convex,Other,Pleural Effusion
+116_litfl_other.mp4,pleural_effusion_case_2_3,Litfl,Convex,Other,Pleural Effusion
+117_litfl_other.mp4,pleural_effusion_case_2_4,Litfl,Convex,Other,Pleural Effusion
+118_litfl_other.mp4,pleural_effusion_case_2_5,Litfl,Convex,Other,Pleural Effusion
+119_litfl_other.mp4,pleural_effusion_case_2_6,Litfl,Convex,Other,Pleural Effusion
+120_litfl_other.mp4,pleural_effusion_case_2_7,Litfl,Convex,Other,Pleural Effusion
+121_litfl_pneumonia.mp4,pneumonia_case_1_1,Litfl,Convex,Pneumonia,
+122_litfl_pneumonia.mp4,pneumonia_case_1_2,Litfl,Convex,Pneumonia,
+123_litfl_pneumonia.mp4,pneumonia_case_2_1,Litfl,Convex,Pneumonia,
+124_litfl_pneumonia.mp4,pneumonia_case_2_2,Litfl,Linear,Pneumonia,
+125_litfl_pneumonia.mp4,pneumonia_case_2_3,Litfl,Linear,Pneumonia,
+126_litfl_pneumonia.mp4,pneumonia_case_2_4,Litfl,Linear,Pneumonia,
+127_litfl_pneumonia.mp4,pneumonia_case_3_1,Litfl,Convex,Pneumonia,
+128_litfl_pneumonia.mp4,pneumonia_case_3_2,Litfl,Convex,Pneumonia,
+129_litfl_pneumonia.mp4,pneumonia_case_3_3,Litfl,Convex,Pneumonia,
+130_litfl_pneumonia.mp4,pneumonia_case_3_4,Litfl,Convex,Pneumonia,
+131_litfl_pneumonia.mp4,pneumonia_case_3_5,Litfl,Convex,Pneumonia,
+132_litfl_pneumonia.mp4,pneumonia_case_4,Litfl,Convex,Pneumonia,
+133_litfl_other.mp4,pneumothorax_case1_1,Litfl,Linear,Other,Pneumothorax
+134_litfl_other.mp4,pneumothorax_case1_2,Litfl,Linear,Other,Pneumothorax
+135_litfl_normal.mp4,pneumothorax_case2_1,Litfl,Linear,Normal,
+136_litfl_other.mp4,pneumothorax_case2_2,Litfl,Linear,Other,Pneumothorax
+137_litfl_other.mp4,pneumothorax_case3_1,Litfl,Linear,Other,Pneumothorax
+138_litfl_normal.mp4,pneumothorax_case3_2,Litfl,Linear,Normal,
+139_litfl_normal.mp4,pneumothorax_case4_1,Litfl,Linear,Normal,
+140_litfl_other.mp4,pneumothorax_case4_2,Litfl,Linear,Other,Pneumothorax
+141_litfl_other.mp4,pneumothorax_case4_3,Litfl,Convex,Other,Pneumothorax
+142_litfl_other.mp4,pneumothorax_case5_1,Litfl,Linear,Other,Pneumothorax
+143_litfl_other.mp4,pneumothorax_case5_2,Litfl,Linear,Other,Pneumothorax
+144_litfl_other.mp4,pneumothorax_case5_3,Litfl,Linear,Other,Pneumothorax
+145_litfl_other.mp4,pulmonary_oedema_case1_1,Litfl,Convex,Other,Pulmonary Oedema
+146_litfl_other.mp4,pulmonary_oedema_case1_2,Litfl,Convex,Other,Pulmonary Oedema
+147_litfl_other.mp4,pulmonary_oedema_case1_3,Litfl,Convex,Other,Pulmonary Oedema
+148_litfl_other.mp4,pulmonary_oedema_case1_4,Litfl,Convex,Other,Pulmonary Oedema
+149_litfl_other.mp4,pulmonary_oedema_case1_5,Litfl,Convex,Other,Pulmonary Oedema
+150_litfl_other.mp4,subcutaneous_emphysema_case_1,Litfl,Convex,Other,Subcutaneous Emphysema
+151_litfl_pneumonia.mp4,,Litfl,Convex,Pneumonia,

@@ -2,6 +2,7 @@
 
 The COVID-19 pandemic continues to have a devastating effect on the health and well-being of the global population. Apart from the global health crises, the pandemic has also caused significant economic and financial difficulties and socio-physiological implications. Effective screening, prognosis, and treatment planning plays a key role in controlling the pandemic. A few recent studies highlighted the role of point-of-care ultrasound imaging for COVID-19 screening and prognosis, particularly given its non-invasive nature, widespread global accessibility and availability, and easy-to-sanitize nature.  Motivated by this and the promise of artificial intelligence tools to aid clinicians, we introduce __COVIDx-US__, an open-access benchmark dataset of COVID-19 related ultrasound imaging data that is the largest of its kind. The COVIDx-US dataset was curated from multiple sources and consists of __150__ lung ultrasound videos and __12,943__ processed images of patients with COVID-19 infection, non-COVID-19 infection, normal cases, as well as patients with other lung diseases/conditions. The dataset was systematically processed and validated specifically for the purpose of building and evaluating artificial intelligence algorithms and models. 
 
+**Update 04/12/2021:** Data dictionary added. This [excel file](https://github.com/nrc-cnrc/COVID-US/blob/main/utils/Data%20Dictionary.xlsx) contains detailed information about the variables/features in the metadata files.  
 **Update 04/07/2021:** COVIDx-US v1.2 is released. We added 41 new ultrasound videos. The dataset now comprises 150 ultrasound videos and 12,493 processed ultrasound images. In addition, three labelling metadata files were released (located under the _labels_ folder) to ease up formulation of data science problems built on COVIDx-US to binary, 3-class, and 4-class classification problems.  
 **Update 04/01/2021:** COVIDx-US v1.1 is released. We added 16 new ultrasound videos. The dataset now comprises 109 ultrasound videos and 11,307 processed ultrasound images.  
 **Update 03/18/2021:** For a detailed description of the COVIDx-US dataset, please see our [paper](https://arxiv.org/abs/2103.10003).  
@@ -47,7 +48,8 @@ To generate the __COVIDx-US dataset__:
 
 # How to Generate the COVIDx-US Dataset?
 1. Use create_COVIDxUS.ipynb to extract the ultrasound videos from multiple sources and integrate them in the COVIDx-US dataset. 
-    * __Note:__ Make sure to modify the file paths in the code to your own paths, if reuqired.
+    * __Note 1:__ Make sure to modify the file paths in the code to your own paths, if reuqired.
+	* __Note 2:__ See [data dictionary](https://github.com/nrc-cnrc/COVID-US/blob/main/utils/Data%20Dictionary.xlsx) file for details about variables/features in the metadata files. 
 
 # COVIDx-US Data Distribution
 Ultrasound __videos__ distribution per label and probe type

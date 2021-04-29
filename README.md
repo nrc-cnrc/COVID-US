@@ -70,7 +70,7 @@ __Other__ | 34 | 23 | `57`
 Ultrasound __videos__ distribution per label and data source
 
 Class | ButterflyNetwork | PocusAtlas | GrepMed | LITFL | Radiopaedia | CoreUltrasound | Total
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | ---  | --- | --- | ---
 __COVID-19__ | 33 | 18 | 8 | 0 | 0 | 1 | `60`
 __Pneumonia__ | 0 | 9 | 9 | 19 | 1 | 3 | `41`
 __Normal__ | 2 | 5 | 3 | 3 | 1 | 1 | `15`

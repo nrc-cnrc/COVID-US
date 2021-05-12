@@ -32,11 +32,11 @@ Our goal is to encourage broad adoption and contribution to this project. The CO
 	* __GrepMed__
 	* __CoreUltrasound__
 
-* Notes
-	1. The above data sources are all public sources. 
-	2. We do not host any data on the COVIDx-US repository.
-	3. Users have the responsibility to verify with the unlicensed data sources to see if their intended usage is allowed. We take no responsibility for any data use by users.
-	4. For the licensed data sources, it's users' responsibility to verify if their usage is allowed according to the license.
+__Notes__
+1. The above data sources are all public sources. 
+2. We do not host any data on the COVIDx-US repository.
+3. Users have the responsibility to verify with the unlicensed data sources to see if their intended usage is allowed. We take no responsibility for any data use by users.
+4. For the licensed data sources, it's users' responsibility to verify if their usage is allowed according to the license.
 
 # Conceptual flow
 Conceptual flow of the data collection and processing

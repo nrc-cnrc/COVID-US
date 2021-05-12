@@ -17,10 +17,11 @@ The current COVIDx-US dataset is constructed from the following datasets:
 * [Radiopaedia](https://radiopaedia.org/)
 * [CoreUltrasound](https://www.coreultrasound.com/)   
 
-# COVIDx-US license
+# License
+### COVIDx-US license
 Our goal is to encourage broad adoption and contribution to this project. The COVID-US project is an open-source open-access initiative under the terms of the __GNU Affero General Public License 3.0__. Please review the LICENCE document for terms. Contact the team if you wish to licence COVID-US under different terms.
 
-# Data sources license
+### Data sources license
 * Data sources with Creative Commons (CC) license:
 	* __The POCUS Atlas__ - [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 	* __LITFL__ - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -31,15 +32,14 @@ Our goal is to encourage broad adoption and contribution to this project. The CO
 	* __GrepMed__
 	* __CoreUltrasound__
 
-* __Notes__
+* Notes
 	1. The above data sources are all public sources. 
 	2. We do not host any data on the COVIDx-US repository.
 	3. Users have the responsibility to verify with the unlicensed data sources to see if their intended usage is allowed. We take no responsibility for any data use by users.
 	4. For the licensed data sources, it's users' responsibility to verify if their usage is allowed according to the license.
 
-
-
-Conceptual flow of the data collection and processing flow
+# Conceptual flow
+Conceptual flow of the data collection and processing
 :-------------------------:
 <img src="figure/Conceptual_flow.png" alt="COVID-US-Conceptual flow" width="100%" height="100%">
 

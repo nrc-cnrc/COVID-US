@@ -17,7 +17,7 @@ The current COVIDx-US dataset is constructed from the following datasets:
 * [LITFL](https://litfl.com/)
 * [Radiopaedia](https://radiopaedia.org/)
 * [CoreUltrasound](https://www.coreultrasound.com/)   
-* University of Florida]   
+* University of Florida   
 * Scientific publications   
 * [Clarius](https://clarius.com/)   
 

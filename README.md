@@ -1,7 +1,8 @@
 # COVID-US: An Open-Source Open-Access Initiative
 
-The COVID-19 pandemic continues to have a devastating effect on the health and well-being of the global population. Apart from the global health crises, the pandemic has also caused significant economic and financial difficulties and socio-physiological implications. Effective screening, prognosis, and treatment planning plays a key role in controlling the pandemic. A few recent studies highlighted the role of point-of-care ultrasound imaging for COVID-19 screening and prognosis, particularly given its non-invasive nature, widespread global accessibility and availability, and easy-to-sanitize nature.  Motivated by this and the promise of artificial intelligence tools to aid clinicians, and as part of a large open-source initiative, __[the COVID-Net initiative](https://alexswong.github.io/COVID-Net/)__, we introduce __COVIDx-US__, an open-access benchmark dataset of COVID-19 related ultrasound imaging data that is the largest of its kind. The COVIDx-US dataset was curated from multiple sources and consists of __173__ lung ultrasound videos and __16,822__ processed images of patients with COVID-19 infection, non-COVID-19 infection, normal cases, as well as patients with other lung diseases/conditions. The dataset was systematically processed and validated specifically for the purpose of building and evaluating artificial intelligence algorithms and models. 
+The COVID-19 pandemic continues to have a devastating effect on the health and well-being of the global population. Apart from the global health crises, the pandemic has also caused significant economic and financial difficulties and socio-physiological implications. Effective screening, prognosis, and treatment planning plays a key role in controlling the pandemic. A few recent studies highlighted the role of point-of-care ultrasound imaging for COVID-19 screening and prognosis, particularly given its non-invasive nature, widespread global accessibility and availability, and easy-to-sanitize nature.  Motivated by this and the promise of artificial intelligence tools to aid clinicians, and as part of a large open-source initiative, __[the COVID-Net initiative](https://alexswong.github.io/COVID-Net/)__, we introduce __COVIDx-US__, an open-access benchmark dataset of COVID-19 related ultrasound imaging data that is the largest of its kind. The COVIDx-US dataset was curated from multiple sources and its current version consists of __242__ lung ultrasound videos and __29,651__ processed images of patients with COVID-19 infection, non-COVID-19 infection, normal cases, as well as patients with other lung diseases/conditions. The dataset was systematically processed and validated specifically for the purpose of building and evaluating artificial intelligence algorithms and models. 
 
+**Update 07/13/2021:** COVIDx-US v1.4 is released. We added three new data sources. The dataset now comprises 242 ultrasound videos and 29,651 processed ultrasound images.  
 **Update 04/29/2021:** COVIDx-US v1.3 is released. We added two new data sources (Radiopaedia and CoreUltrasound). The dataset now comprises 173 ultrasound videos and 16,822 processed ultrasound images.  
 **Update 04/12/2021:** Data dictionary added. This [excel file](https://github.com/nrc-cnrc/COVID-US/blob/main/utils/Data%20Dictionary.xlsx) contains detailed information about the variables/features in the metadata files.  
 **Update 04/07/2021:** COVIDx-US v1.2 is released. We added 41 new ultrasound videos. The dataset now comprises 150 ultrasound videos and 12,493 processed ultrasound images. In addition, three labelling metadata files were released (located under the _labels_ folder) to ease up formulation of data science problems built on COVIDx-US to binary, 3-class, and 4-class classification problems.  
@@ -16,6 +17,9 @@ The current COVIDx-US dataset is constructed from the following datasets:
 * [LITFL](https://litfl.com/)
 * [Radiopaedia](https://radiopaedia.org/)
 * [CoreUltrasound](https://www.coreultrasound.com/)   
+* University of Florida]   
+* Scientific publications   
+* [Clarius](https://clarius.com/)   
 
 # License
 ### COVIDx-US license
@@ -31,6 +35,7 @@ Our goal is to encourage broad adoption and contribution to this project. The CO
 	* __ButterflyNetwork__
 	* __GrepMed__
 	* __CoreUltrasound__
+	* __Clarius__
 
 __Notes__
 1. The above data sources are all public sources. 
@@ -79,21 +84,21 @@ Ultrasound __videos__ distribution per label and probe type
 
 Class | Convex | Linear | Total
 --- | --- | --- | ---
-__COVID-19__ | 53 | 7 | `60`
-__Pneumonia__ | 32 | 9 | `41`
-__Normal__ | 8 | 7 | `15`
-__Other__ | 34 | 23 | `57`
+__COVID-19__ | 63 | 8 | `71`
+__Pneumonia__ | 40 | 9 | `49`
+__Normal__ | 19 | 9 | `28`
+__Other__ | 68 | 26 | `94`
 
 
 
 Ultrasound __videos__ distribution per label and data source
 
-Class | ButterflyNetwork | PocusAtlas | GrepMed | LITFL | Radiopaedia | CoreUltrasound | Total
---- | --- | --- | --- | ---  | --- | --- | ---
-__COVID-19__ | 33 | 18 | 8 | 0 | 0 | 1 | `60`
-__Pneumonia__ | 0 | 9 | 9 | 19 | 1 | 3 | `41`
-__Normal__ | 2 | 5 | 3 | 3 | 1 | 1 | `15`
-__Other__ | 0 | 0 | 0 | 41 | 3 | 13 | `57`
+Class | ButterflyNetwork | PocusAtlas | GrepMed | LITFL | Radiopaedia | CoreUltrasound | Papers | UF | Clarius | Total
+--- | --- | --- | --- | ---  | --- | --- | --- | --- | --- | ---
+__COVID-19__ | 33 | 18 | 8 | 0 | 0 | 1 | 7 | 0 | 4 | `71`
+__Pneumonia__ | 0 | 9 | 9 | 19 | 1 | 3 | 0 | 1 | 7 | `49`
+__Normal__ | 2 | 5 | 3 | 3 | 1 | 1 | 4 | 6 | 3 | `28`
+__Other__ | 0 | 0 | 0 | 41 | 3 | 13 | 11 | 17 | 9 | `94`
 
 
 # Citing this work
@@ -114,7 +119,7 @@ After reading the README and past/current issues use the [issue tracker](https:/
 # Contributing
 You can contribute to the COVID-US initiative by providing/adding more data/data sources, implementing new features and functionalities in the scripts, correcting errors, or even improving documentation. Feel free to submit small corrections and contributions as issues in the [issue tracker](https://github.com/nrc-cnrc/COVID-US/issues/). For more extensive contributions, familiarize yourself with git and github, work on your own COVID-US fork and submit your changes via a [pull request](https://github.com/nrc-cnrc/COVID-US/pulls).
 
-# Related work
+# Related works
 * COVID-19 lung ultrasound [dataset](https://github.com/jannisborn/covid19_ultrasound/tree/master/data), link to the [paper](https://www.mdpi.com/2076-3417/11/2/672/html).
 
 # COVID-Net team's other datasets for COVID-19 detection

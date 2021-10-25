@@ -1,4 +1,4 @@
-# COVID-US: An Open-Source Open-Access Initiative
+# COVIDx-US: An open-access benchmark dataset of COVID-19 related ultrasound imaging
 
 The COVID-19 pandemic continues to have a devastating effect on the health and well-being of the global population. Apart from the global health crises, the pandemic has also caused significant economic and financial difficulties and socio-physiological implications. Effective screening, prognosis, and treatment planning plays a key role in controlling the pandemic. A few recent studies highlighted the role of point-of-care ultrasound imaging for COVID-19 screening and prognosis, particularly given its non-invasive nature, widespread global accessibility and availability, and easy-to-sanitize nature.  Motivated by this and the promise of artificial intelligence tools to aid clinicians, and as part of a large open-source initiative, __[the COVID-Net initiative](https://alexswong.github.io/COVID-Net/)__, we introduce __COVIDx-US__, an open-access benchmark dataset of COVID-19 related ultrasound imaging data that is the largest of its kind. The COVIDx-US dataset was curated from multiple sources and its current version consists of __242__ lung ultrasound videos and __29,651__ processed images of patients with COVID-19 infection, non-COVID-19 infection, normal cases, as well as patients with other lung diseases/conditions. The dataset was systematically processed and validated specifically for the purpose of building and evaluating artificial intelligence algorithms and models. 
 
@@ -54,7 +54,7 @@ US video of a COVID-19 patient             |  Cropped video             |  First
 <img src="figure/6_butterfly_covid.gif"  alt="US video of a COVID-19 patient" width="100" height="172">  |  <img src="figure/6_butterfly_covid_cropped.gif" alt="cropped video" width="100" height="100">  |  <img src="figure/6_butterfly_covid_cropped_convex_frame0.jpg" alt="first frame extracted from the video" width="100" height="100">  |  <img src="figure/6_butterfly_covid_prc_convex_main_mask.jpg" alt="first frame mask" width="100" height="100">  |  <img src="figure/6_butterfly_covid_cropped_convex_frame67.jpg" alt="frame with moving pointer extracted from the video" width="100" height="100">  |  <img src="figure/6_butterfly_covid_prc_convex_frame67_mask.jpg" alt="frame with moving pointer mask" width="100" height="100">
 
 
-# Core COVID-US Team
+# Core COVIDx-US Team
 1. National Research Council Canada
     * Ashkan Ebadi (ashkan.ebadi@nrc-cnrc.gc.ca)
     * Pengcheng Xi

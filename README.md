@@ -62,6 +62,8 @@ US video of a COVID-19 patient             |  Cropped video             |  First
 2. Vision and Image Processing Research Group, University of Waterloo, Canada
     * Alexander Wong (alexander.wong@uwaterloo.ca)
     * Alexander MacLean
+3. St. Mary’s Hospital, McGill University, Canada
+    * Adrian Florea
 
 # Requirements
 To generate the __COVIDx-US dataset__:

@@ -1,0 +1,244 @@
+id,LUSS,source,probe,class,class_on_website,type,patient,case_no
+1_butterfly_covid,3,Butterfly,Convex,COVID,,lung,p1,1
+2_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p2,1
+3_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p3,1
+4_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p4,1
+5_butterfly_covid,,Butterfly,Convex,COVID,,cardiac,p5,1
+6_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p6,1
+7_butterfly_covid,3,Butterfly,Convex,COVID,,lung,p7,1
+8_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p8,1
+9_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p9,1
+10_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p10,1
+11_butterfly_covid,3,Butterfly,Convex,COVID,,lung,p11,1
+12_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p12,1
+13_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p13,1
+14_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p14,1
+15_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p15,1
+16_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p16,1
+17_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p17,1
+18_butterfly_covid,1,Butterfly,Convex,COVID,,lung,p18,1
+19_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p19,1
+20_butterfly_normal,0,Butterfly,Convex,Normal,,lung,p20,1
+21_butterfly_normal,0,Butterfly,Convex,Normal,,lung,p21,1
+22_butterfly_covid,NA,Butterfly,Convex,COVID,,lung,p22,1
+23_grepmed_pneumonia,1,GrepMed,Linear,Pneumonia,,lung,p23,1
+24_grepmed_covid,2,GrepMed,Convex,COVID,,lung,p24,1
+25_grepmed_pneumonia,3,GrepMed,Convex,Pneumonia,,lung,p25,1
+26_grepmed_covid,2,GrepMed,Convex,COVID,,lung,p26,1
+27_grepmed_pneumonia,3,GrepMed,Convex,Pneumonia,,lung,p27,1
+28_grepmed_normal,0,GrepMed,Linear,Normal,,lung,p28,1
+29_grepmed_covid,2,GrepMed,Linear,COVID,,lung,p29,1
+30_grepmed_covid,2,GrepMed,Convex,COVID,,lung,p30,1
+31_grepmed_covid,2,GrepMed,Convex,COVID,,lung,p31,1
+32_grepmed_pneumonia,2,GrepMed,Linear,Pneumonia,,lung,p32,1
+33_grepmed_covid,2,GrepMed,Linear,COVID,,lung,p33,1
+34_grepmed_pneumonia,3,GrepMed,Convex,Pneumonia,,lung,p34,1
+35_grepmed_covid,2,GrepMed,Convex,COVID,,lung,p35,1
+36_grepmed_normal,0,GrepMed,Convex,Normal,,lung,p36,1
+37_grepmed_pneumonia,3,GrepMed,Convex,Pneumonia,,lung,p37,1
+38_grepmed_pneumonia,3,GrepMed,Convex,Pneumonia,,lung,p38,1
+39_grepmed_normal,0,GrepMed,Linear,Normal,,lung,p39,1
+40_grepmed_pneumonia,NA,GrepMed,Convex,Pneumonia,,lung,p40,1
+41_grepmed_pneumonia,3,GrepMed,Convex,Pneumonia,,lung,p41,1
+42_grepmed_covid,2,GrepMed,Convex,COVID,,lung,p42,1
+43_litfl_pneumonia,3,Litfl,Convex,Pneumonia,,lung,p43,1
+44_litfl_pneumonia,NA,Litfl,Convex,Pneumonia,,cardiac,p44,1
+45_litfl_pneumonia,NA,Litfl,Convex,Pneumonia,,cardiac,p44,2
+46_litfl_pneumonia,NA,Litfl,Convex,Pneumonia,,cardiac,p44,3
+47_litfl_pneumonia,NA,Litfl,Linear,Pneumonia,,,p44,4
+48_litfl_pneumonia,NA,Litfl,Convex,Pneumonia,,cardiac,p44,5
+49_pocusatlas_covid,1,PocusAtlas,Convex,COVID,,lung,p45,1
+50_pocusatlas_covid,0,PocusAtlas,Convex,COVID,,lung,p46,1
+51_pocusatlas_covid,0,PocusAtlas,Convex,COVID,,lung,p47,1
+52_pocusatlas_covid,2,PocusAtlas,Convex,COVID,,lung,p48,1
+53_pocusatlas_covid,1,PocusAtlas,Convex,COVID,,lung,p49,1
+54_pocusatlas_covid,1,PocusAtlas,Convex,COVID,,lung,p50,1
+55_pocusatlas_covid,2,PocusAtlas,Linear,COVID,,lung,p51,1
+56_pocusatlas_covid,1,PocusAtlas,Convex,COVID,,lung,p52,1
+57_pocusatlas_covid,2,PocusAtlas,Linear,COVID,,lung,p53,1
+58_pocusatlas_covid,2,PocusAtlas,Convex,COVID,,lung,p54,1
+59_pocusatlas_covid,NA,PocusAtlas,Linear,COVID,,lung,p55,1
+60_pocusatlas_covid,1,PocusAtlas,Convex,COVID,,lung,p56,1
+61_pocusatlas_covid,2,PocusAtlas,Convex,COVID,,lung,p57,1
+62_pocusatlas_normal,0,PocusAtlas,Convex,Normal,,lung,p58,1
+63_pocusatlas_covid,2,PocusAtlas,Linear,COVID,,lung,p59,1
+64_pocusatlas_pneumonia,3,PocusAtlas,Convex,Pneumonia,,lung,p60,1
+65_pocusatlas_pneumonia,NA,PocusAtlas,Linear,Pneumonia,,lung,p61,1
+66_pocusatlas_covid,2,PocusAtlas,Convex,COVID,,lung,p62,1
+67_pocusatlas_covid,2,PocusAtlas,Linear,COVID,,lung,p63,1
+68_pocusatlas_pneumonia,3,PocusAtlas,Convex,Pneumonia,,lung,p64,1
+69_pocusatlas_pneumonia,3,PocusAtlas,Convex,Pneumonia,,lung,p65,1
+70_pocusatlas_pneumonia,3,PocusAtlas,Convex,Pneumonia,,lung,p66,1
+71_pocusatlas_normal,0,PocusAtlas,Convex,Normal,,lung,p67,1
+72_pocusatlas_pneumonia,NA,PocusAtlas,Convex,Pneumonia,,lung,p68,1
+73_pocusatlas_covid,2,PocusAtlas,Convex,COVID,,lung,p69,1
+74_pocusatlas_covid,1,PocusAtlas,Convex,COVID,,lung,p70,1
+75_pocusatlas_pneumonia,NA,PocusAtlas,Linear,Pneumonia,,lung,p71,1
+76_pocusatlas_normal,0,PocusAtlas,Convex,Normal,,lung,p72,1
+77_pocusatlas_normal,0,PocusAtlas,Convex,Normal,,lung,p73,1
+78_pocusatlas_normal,0,PocusAtlas,Linear,Normal,,lung,p74,1
+79_pocusatlas_pneumonia,3,PocusAtlas,Convex,Pneumonia,,lung,p75,1
+80_pocusatlas_pneumonia,2,PocusAtlas,Convex,Pneumonia,,lung,p76,1
+81_butterfly_covid,1,Butterfly,Convex,COVID,,lung,p77,1
+82_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p78,1
+83_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p79,1
+84_butterfly_covid,1,Butterfly,Convex,COVID,,cardiac,p80,1
+85_butterfly_covid,NA,Butterfly,Convex,COVID,,cardiac,p81,1
+86_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p82,1
+87_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p83,1
+88_butterfly_covid,1,Butterfly,Convex,COVID,,lung,p84,1
+89_butterfly_covid,1,Butterfly,Convex,COVID,,lung,p85,1
+90_butterfly_covid,1,Butterfly,Convex,COVID,,lung,p86,1
+91_butterfly_covid,NA,Butterfly,Convex,COVID,,abdomen,p87,1
+92_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p88,1
+93_butterfly_covid,2,Butterfly,Convex,COVID,,lung,p89,1
+94_butterfly_covid,1,Butterfly,Convex,COVID,,lung,p90,1
+95_litfl_other,0,Litfl,Linear,Other,Chronic Obstructive Pulmonary Disease (COPD),lung,p91,1
+96_litfl_other,0,Litfl,Linear,Other,Chronic Obstructive Pulmonary Disease (COPD),lung,p91,2
+97_litfl_other,NA,Litfl,Convex,Other,Empyema ,lung,p92,1
+98_litfl_other,NA,Litfl,Convex,Other,Lung Abscess,lung,p93,1
+99_litfl_other,NA,Litfl,Linear,Other,Hydropneumothorax,lung,p94,1
+100_litfl_other,1,Litfl,Convex,Other,Hydropneumothorax,lung,p94,2
+101_litfl_other,NA,Litfl,Convex,Other,Lung Collapse,lung,p95,1
+102_litfl_other,NA,Litfl,Convex,Other,Lung Collapse,lung,p95,2
+103_litfl_other,NA,Litfl,Linear,Other,Lung Point,lung,p96,1
+104_litfl_other,NA,Litfl,Linear,Other,Lung Point,lung,p97,1
+105_litfl_other,NA,Litfl,Convex,Other,Lung Point,lung,p98,1
+106_litfl_other,NA,Litfl,Linear,Other,Lung Point,lung,p99,1
+107_litfl_other,NA,Litfl,Convex,Other,Lung Point,lung,p100,1
+108_litfl_other,0,Litfl,Convex,Other,Lung Point,lung,p100,2
+109_litfl_other,NA,Litfl,Linear,Other,Malignancy - Lung Metastases,lung,p101,1
+110_litfl_other,NA,Litfl,Linear,Other,Malignancy - Lung Metastases,lung,p102,1
+111_litfl_other,NA,Litfl,Convex,Other,Malignancy - Lung Metastases,lung,p102,2
+112_litfl_other,NA,Litfl,Linear,Other,Malignancy - Lung Metastases,lung,p102,3
+113_litfl_other,NA,Litfl,Convex,Other,Pleural Effusion,lung,p103,1
+114_litfl_other,2,Litfl,Convex,Other,Pleural Effusion,lung,p104,1
+115_litfl_other,2,Litfl,Convex,Other,Pleural Effusion,lung,p104,2
+116_litfl_other,NA,Litfl,Convex,Other,Pleural Effusion,lung,p104,3
+117_litfl_other,NA,Litfl,Convex,Other,Pleural Effusion,lung,p104,4
+118_litfl_other,NA,Litfl,Convex,Other,Pleural Effusion,cardiac,p104,5
+119_litfl_other,NA,Litfl,Convex,Other,Pleural Effusion,cardiac,p104,6
+120_litfl_other,NA,Litfl,Convex,Other,Pleural Effusion,cardiac,p104,7
+121_litfl_pneumonia,NA,Litfl,Convex,Pneumonia,,lung,p105,1
+122_litfl_pneumonia,3,Litfl,Convex,Pneumonia,,lung,p105,2
+123_litfl_pneumonia,3,Litfl,Convex,Pneumonia,,lung,p106,1
+124_litfl_pneumonia,3,Litfl,Linear,Pneumonia,,lung,p106,2
+125_litfl_pneumonia,NA,Litfl,Linear,Pneumonia,,neck,p106,3
+126_litfl_pneumonia,NA,Litfl,Linear,Pneumonia,,neck,p106,4
+127_litfl_pneumonia,0,Litfl,Convex,Pneumonia,,lung,p107,1
+128_litfl_pneumonia,0,Litfl,Convex,Pneumonia,,lung,p107,2
+129_litfl_pneumonia,3,Litfl,Convex,Pneumonia,,lung,p107,3
+130_litfl_pneumonia,3,Litfl,Convex,Pneumonia,,lung,p107,4
+131_litfl_pneumonia,3,Litfl,Convex,Pneumonia,,lung,p107,5
+132_litfl_pneumonia,3,Litfl,Convex,Pneumonia,,lung,p108,1
+133_litfl_other,0,Litfl,Linear,Other,Pneumothorax,lung,p109,1
+134_litfl_other,0,Litfl,Linear,Other,Pneumothorax,lung,p109,2
+135_litfl_normal,0,Litfl,Linear,Normal,,lung,p110,1
+136_litfl_other,0,Litfl,Linear,Other,Pneumothorax,lung,p110,2
+137_litfl_other,0,Litfl,Linear,Other,Pneumothorax,lung,p111,1
+138_litfl_normal,0,Litfl,Linear,Normal,,lung,p111,2
+139_litfl_normal,0,Litfl,Linear,Normal,,lung,p112,1
+140_litfl_other,0,Litfl,Linear,Other,Pneumothorax,lung,p112,2
+141_litfl_other,NA,Litfl,Convex,Other,Pneumothorax,lung,p112,3
+142_litfl_other,0,Litfl,Linear,Other,Pneumothorax,lung,p113,1
+143_litfl_other,0,Litfl,Linear,Other,Pneumothorax,lung,p113,2
+144_litfl_other,0,Litfl,Linear,Other,Pneumothorax,lung,p113,3
+145_litfl_other,2,Litfl,Convex,Other,Pulmonary Edema,lung,p114,1
+146_litfl_other,1,Litfl,Convex,Other,Pulmonary Edema,lung,p114,2
+147_litfl_other,NA,Litfl,Convex,Other,Pulmonary Edema,lung,p114,3
+148_litfl_other,NA,Litfl,Convex,Other,Pulmonary Edema,lung,p114,4
+149_litfl_other,NA,Litfl,Convex,Other,Pulmonary Edema,cardiac,p114,5
+150_litfl_other,0,Litfl,Convex,Other,Subcutaneous Emphysema,lung,p115,1
+151_litfl_pneumonia,3,Litfl,Convex,Pneumonia,,lung,p116,1
+152_radio_normal,0,Radiopaedia,Convex,Normal,Normal anterior lung,lung,p117,1
+153_radio_pneumonia,3,Radiopaedia,Convex,Pneumonia,Pneumonia,lung,p118,1
+154_radio_other,NA,Radiopaedia,Convex,Other,Congenital lobar overinflation,lung,p119,1
+155_radio_other,NA,Radiopaedia,Convex,Other,Congenital lobar overinflation,lung,p119,2
+156_radio_other,NA,Radiopaedia,Convex,Other,Pleural Effusion,lung,p120,1
+157_core_other,NA,CoreUltrasound,Convex,Other,Bad NGT Placement,lung,p121,1
+158_core_pneumonia,3,CoreUltrasound,Convex,Pneumonia,Pneumonia,lung,p122,1
+159_core_other,1,CoreUltrasound,Convex,Other,Pulmonary Contusion,lung,p123,1
+160_core_other,1,CoreUltrasound,Convex,Other,Pulmonary Contusion,lung,p123,2
+161_core_other,0,CoreUltrasound,Linear,Other,Pneumothorax,lung,p124,1
+162_core_other,0,CoreUltrasound,Linear,Other,Pneumothorax,lung,p124,2
+163_core_other,1,CoreUltrasound,Convex,Other,"Severe Aortic Insufficiency, Aortic Valve Vegetation,  Cardiogenic Shock",lung,p125,1
+164_core_normal,0,CoreUltrasound,Linear,Normal,Normal Lung at level of diaphragm,lung,p126,1
+165_core_other,0,CoreUltrasound,Linear,Other,Transcutaneous Cardiac Pacing,lung,p127,1
+166_core_other,1,CoreUltrasound,Convex,Other,"Cardiac Asthma, Decompensated Systolic Heart Failure",lung,p128,1
+167_core_other,0,CoreUltrasound,Linear,Other,Hemothorax,lung,p129,1
+168_core_other,0,CoreUltrasound,Linear,Other,Hemothorax,lung,p129,2
+169_core_other,1,CoreUltrasound,Convex,Other,Pulmonary Oedema,lung,p130,1
+170_core_pneumonia,3,CoreUltrasound,Convex,Pneumonia,Pneumonia,lung,p131,1
+171_core_pneumonia,3,CoreUltrasound,Linear,Pneumonia,Pneumonia,lung,p131,2
+172_core_other,1,CoreUltrasound,Convex,Other,Pulmonary Oedema,lung,p132,1
+173_core_other,0,CoreUltrasound,Linear,Other,Pneumothorax,lung,p133,1
+174_core_covid,3,CoreUltrasound,Convex,COVID,"COVID-19 Pneumonia, Pulmonary Embolism",lung,p134,1
+175_uf_normal,0,UF,Convex,Normal,,lung,p135,1
+176_uf_normal,0,UF,Convex,Normal,,lung,p136,1
+177_uf_normal,0,UF,Convex,Normal,,lung,p137,1
+178_uf_other,3,UF,Convex,Other,,lung,p138,1
+179_uf_other,0,UF,Convex,Other,,lung,p139,1
+180_uf_normal,3,UF,Convex,Normal,,lung,p140,1
+181_uf_other,0,UF,Convex,Other,,lung,p141,1
+182_uf_other,NA,UF,Convex,Other,Pleural Effusion,lung,p142,1
+183_uf_other,NA,UF,Convex,Other,Pleural Effusion,lung,p143,1
+184_uf_pneumonia,NA,UF,Convex,Pneumonia,Pneumonia,lung,p144,1
+185_uf_other,2,UF,Convex,Other,Pulmonary Edema,lung,p145,1
+186_uf_other,3,UF,Convex,Other,Pneumothorax,lung,p146,1
+187_uf_other,0,UF,Linear,Other,Pneumothorax,lung,p146,2
+188_uf_other,NA,UF,Convex,Other,Pleural Effusion,lung,p147,1
+189_uf_other,NA,UF,Convex,Other,Pleural Effusion,lung,p148,1
+190_uf_normal,0,UF,Convex,Normal,,lung,p149,1
+191_uf_normal,0,UF,Convex,Normal,,lung,p150,1
+192_uf_other,0,UF,Linear,Other,,lung,p151,1
+193_uf_other,NA,UF,Convex,Other,Pleural Effusion,lung,p152,1
+194_uf_other,NA,UF,Convex,Other,Pleural Effusion,lung,p153,1
+195_uf_other,NA,UF,Convex,Other,Pleural Effusion,lung,p154,1
+196_uf_other,NA,UF,Convex,Other,Pneumothorax,lung,p155,1
+197_uf_other,NA,UF,Convex,Other,Pleural Effusion,lung,p156,1
+198_uf_other,NA,UF,Convex,Other,Pleural Effusion,lung,p157,1
+199_paper_covid,1,Paper,Convex,COVID,,lung,p158,1
+200_paper_covid,0,Paper,Convex,COVID,,lung,p158,2
+201_paper_covid,1,Paper,Convex,COVID,,lung,p159,1
+202_paper_covid,2,Paper,Convex,COVID,,lung,p160,1
+203_paper_covid,1,Paper,Convex,COVID,,lung,p161,1
+204_paper_covid,1,Paper,Convex,COVID,,lung,p162,1
+205_paper_covid,1,Paper,Convex,COVID,,lung,p163,1
+206_paper_normal,2,Paper,Convex,Normal,,lung,p164,1
+207_paper_normal,0,Paper,Linear,Normal,,lung,p165,1
+208_paper_normal,0,Paper,Linear,Normal,,lung,p166,1
+209_paper_other,0,Paper,Linear,Other,Pneumothorax,lung,p167,1
+210_paper_other,NA,Paper,Convex,Other,Pleural Effusion,lung,p168,1
+211_paper_other,NA,Paper,Convex,Other,Pleural Effusion,lung,p169,1
+212_paper_other,1,Paper,Convex,Other,Interstitial Edema,lung,p170,1
+213_paper_other,0,Paper,Convex,Other,,lung,p171,1
+214_paper_other,NA,Paper,Convex,Other,,lung,p172,1
+215_paper_other,2,Paper,Convex,Other,Pleural Effusion,lung,p173,1
+216_clarius_other,NA,Clarius,Convex,Other,Chronic obstructive pulmonary disease,lung,p174,1
+217_clarius_normal,0,Clarius,Convex,Normal,,lung,p175,1
+218_clarius_covid,1,Clarius,Convex,COVID,,lung,p176,1
+219_clarius_covid,1,Clarius,Linear,COVID,,lung,p177,1
+220_clarius_covid,3,Clarius,Convex,COVID,,lung,p178,1
+221_clarius_covid,NA,Clarius,Convex,COVID,,lung,p179,1
+222_clarius_other,0,Clarius,Convex,Other,Pneumothorax,lung,p180,1
+223_clarius_other,0,Clarius,Convex,Other,Pneumothorax,lung,p180,2
+224_clarius_normal,0,Clarius,Convex,Normal,,lung,p180,3
+225_clarius_other,0,Clarius,Convex,Other,Pneumothorax,lung,p180,4
+226_clarius_other,0,Clarius,Convex,Other,Pneumothorax,lung,p181,1
+227_clarius_other,0,Clarius,Convex,Other,Pneumothorax,lung,p181,2
+228_clarius_other,0,Clarius,Convex,Other,Pneumothorax,lung,p181,3
+229_clarius_pneumonia,3,Clarius,Convex,Pneumonia,,lung,p182,1
+230_clarius_pneumonia,NA,Clarius,Convex,Pneumonia,,lung,p182,2
+231_clarius_pneumonia,2,Clarius,Convex,Pneumonia,,lung,p182,3
+232_clarius_pneumonia,NA,Clarius,Convex,Pneumonia,,lung,p182,4
+233_clarius_pneumonia,NA,Clarius,Convex,Pneumonia,,lung,p182,5
+234_clarius_pneumonia,NA,Clarius,Convex,Pneumonia,,lung,p182,6
+235_clarius_pneumonia,NA,Clarius,Convex,Pneumonia,,lung,p182,7
+236_clarius_normal,0,Clarius,Convex,Normal,,lung,p183,1
+237_clarius_other,NA,Clarius,Convex,Other,Hydropneumothorax,lung,p184,1
+238_clarius_other,1,Clarius,Convex,Other,Pulmonary Edema,lung,p185,1
+239_paper_normal,0,Paper,Convex,Normal,,lung,p186,1
+240_paper_other,NA,Paper,Convex,Other,,lung,p187,1
+241_paper_other,NA,Paper,Convex,Other,Pleural Effusion,lung,p188,1
+242_paper_other,NA,Paper,Convex,Other,Pleural Effusion,lung,p189,1
+243_paper_other,0,Paper,Convex,Other,Pneumothorax,lung,p190,1
